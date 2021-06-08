@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item":"filler:steel_ingot"}
+  ],
+  "result": {
+    "item": "filler:steel_nugget",
+    "count": 9
+  }
+}
